@@ -4,7 +4,7 @@ A simple ASUS Wireless Mouse landing page built using HTML and CSS. This project
 
 ## 🌐 Live Demo
 
-https://yourusername.github.io/asus-wireless-mouse
+https://sithu-shifana.github.io/asus-wireless-mouse-/
 
 ## 🛠️ Built With
 
